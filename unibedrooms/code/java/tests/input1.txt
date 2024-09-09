@@ -1,0 +1,95 @@
+LQ
+
+IE nmarques Nelson Marques
+20 Castelo Branco
+Universidade do Algarve
+
+IE bbarreto Bruno Barreto
+22 Covilha
+Universidade do Porto
+
+IG jantonio Joao Antonio
+Universidade do Porto
+
+IG cfigueiras Carlos Figueiras
+Universidade do Algarve
+
+IQ ALGARVE-RER-Q403 cfigueiras
+Residencia Edificio Rotunda
+Universidade do Algarve
+Penha
+2
+Quarto individual.
+
+RQ ALGARVE-RER-Q403 cfigueiras
+
+LQ
+
+IQ ALGARVE-RER-Q403 cfigueiras
+Residencia Edificio Rotunda
+Universidade do Algarve
+Penha
+2
+Quarto individual.
+
+IQ ALGARVE-RER-Q401 cfigueiras
+Residencia Edificio Rotunda
+Universidade do Algarve
+Penha
+2
+Quarto individual.
+
+IQ ALGARVE-RF-Q402 cfigueiras
+Residencia Faro
+Universidade do Algarve
+Faro
+2
+Quarto individual. 
+
+LQ
+
+IQ PORTO-RAA-Q305 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual com casa de banho privada. Janela orientada a poente.
+
+IQ PORTO-RAA-Q304 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual com casa de banho privada. Janela orientada a poente.
+
+IQ PORTO-RAA-Q306 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual com casa de banho privada. Janela orientada a poente.
+
+IQ PORTO-RAA-Q301 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual com casa de banho privada. Janela orientada a poente.
+
+IQ PORTO-RAA-Q303 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual. Janela orientada a nascente.
+
+IQ PORTO-RAA-Q302 jantonio
+Residencia Alberto Amaral
+Universidade do Porto
+Bolhao
+1
+Quarto individual com casa de banho privada. Janela orientada a nascente.
+
+LQ
+
+XS

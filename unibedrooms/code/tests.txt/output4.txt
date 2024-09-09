@@ -1,0 +1,135 @@
+quarto-g4-10 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+Remocao de quarto executada.
+
+Inexistencia do quarto referido.
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+Remocao de quarto executada.
+
+quarto-g4-9 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Estado de quarto actualizado.
+
+Registo de quarto executado.
+
+Inexistencia do quarto referido.
+
+quarto-g4-9 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+ocupado
+
+Inexistencia do quarto referido.
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+Quarto ocupado.
+
+Registo de candidatura executado.
+
+Registo de candidatura executado.
+
+Registo de candidatura executado.
+
+Registo de candidatura executado.
+
+Inexistencia da candidatura referida.
+
+Operacao nao autorizada.
+
+Inexistencia do quarto referido.
+
+Aceitacao de candidatura executada.
+
+Quarto ocupado.
+
+Inexistencia da candidatura referida.
+
+Operacao nao autorizada.
+
+Operacao nao autorizada.
+
+Quarto ocupado.
+
+Inexistencia da candidatura referida.
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+
+Inexistencia de candidaturas.
+
+estudante2 nomeEstudante2 universidade2
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante2 nomeEstudante2 universidade2
+
+Inexistencia de candidaturas.
+
+Inexistencia do quarto referido.
+
+Inexistencia de candidaturas.
+
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Operacao nao autorizada.
+
+Operacao nao autorizada.
+
+Obrigado. Ate a proxima.
+

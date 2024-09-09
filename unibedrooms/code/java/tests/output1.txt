@@ -1,0 +1,84 @@
+Inexistencia de quartos.
+
+Registo de estudante executado.
+
+Registo de estudante executado.
+
+Registo de gerente executado.
+
+Registo de gerente executado.
+
+Registo de quarto executado.
+
+Remocao de quarto executada.
+
+Inexistencia de quartos.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Faro ALGARVE-RF-Q402
+Universidade do Algarve
+Residencia Faro
+
+Penha ALGARVE-RER-Q401
+Universidade do Algarve
+Residencia Edificio Rotunda
+
+Penha ALGARVE-RER-Q403
+Universidade do Algarve
+Residencia Edificio Rotunda
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Registo de quarto executado.
+
+Bolhao PORTO-RAA-Q301
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q302
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q303
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q304
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q305
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q306
+Universidade do Porto
+Residencia Alberto Amaral
+
+Faro ALGARVE-RF-Q402
+Universidade do Algarve
+Residencia Faro
+
+Penha ALGARVE-RER-Q401
+Universidade do Algarve
+Residencia Edificio Rotunda
+
+Penha ALGARVE-RER-Q403
+Universidade do Algarve
+Residencia Edificio Rotunda
+
+Obrigado. Ate a proxima.
+

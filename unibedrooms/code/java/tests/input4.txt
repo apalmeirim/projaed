@@ -1,0 +1,34 @@
+LL Alameda
+
+LL Faro
+
+RQ ALGARVE-RF-Q402 cfigueiras
+
+LL Faro
+
+IQ ALGARVE-REQ-Q501 cfigueiras
+Residencia Edificio Quadrado
+Universidade do Algarve
+Olhao
+2
+Quarto individual.
+
+LL Olhao
+
+MQ ALGARVE-REQ-Q501 cfigueiras
+ocupado
+
+LL Olhao
+
+LL Bolhao
+
+MQ PORTO-RAA-Q305 jantonio
+ocupado
+
+IC bbarreto PORTO-RAA-Q301
+
+AC PORTO-RAA-Q301 jantonio bbarreto
+
+LL Bolhao
+
+XS

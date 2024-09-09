@@ -1,0 +1,48 @@
+AC quarto-g1-2 gerente1 estudante1
+
+IC estudante1 quarto-g2-1
+
+IC estudante1 quarto-g2-2
+
+IQ quarto-g4-12 gerente4
+residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+
+IC estudante1 quarto-g4-12
+
+LC quarto-g1-1 gerente1
+
+LC quarto-g1-2 gerente1
+
+LC quarto-g1-3 gerente1
+
+LC quarto-g2-1 gerente2
+
+LC quarto-g2-2 gerente4
+
+LC quarto-g4-1 gerente4
+
+LC quarto-g4-2 gerente4
+
+LC quarto-g4-3 gerente4
+
+LC quarto-g4-4 gerente4
+
+LC quarto-g4-5 gerente4
+
+LC quarto-g4-6 gerente4
+
+LC quarto-g4-7 gerente4
+
+LC quarto-g4-8 gerente4
+
+LC quarto-g4-9 gerente4
+
+LC quarto-g4-10 gerente4
+
+LC quarto-g4-11 gerente4
+
+XS

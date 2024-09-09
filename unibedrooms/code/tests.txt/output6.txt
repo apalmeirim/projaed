@@ -1,0 +1,88 @@
+Registo de candidatura executado.
+
+Registo de candidatura executado.
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+estudante5 nomeEstudante5 universidade1
+estudante4 nomeEstudante1 universidade2
+
+Inexistencia da candidatura referida.
+
+Inexistencia da candidatura referida.
+
+Inexistencia da candidatura referida.
+
+Operacao nao autorizada.
+
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Operacao nao autorizada.
+
+quarto-g1-1 residencia do gerente1
+universidade1
+localidade da residencia1
+1
+quarto na residencia do gerente1
+livre
+
+Candidatura existente.
+
+Estado de quarto actualizado.
+
+Candidatura existente.
+
+quarto-g1-1 residencia do gerente1
+universidade1
+localidade da residencia1
+1
+quarto na residencia do gerente1
+livre
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+estudante5 nomeEstudante5 universidade1
+estudante4 nomeEstudante1 universidade2
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+
+estudante1 nomeEstudante1 universidade1
+estudante2 nomeEstudante2 universidade2
+
+Inexistencia de candidaturas.
+
+estudante2 nomeEstudante2 universidade2
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante1 nomeEstudante1 universidade1
+
+estudante2 nomeEstudante2 universidade2
+
+Inexistencia de candidaturas.
+
+Inexistencia do quarto referido.
+
+Inexistencia de candidaturas.
+
+Aceitacao de candidatura executada.
+
+Registo de candidatura executado.
+
+Obrigado. Ate a proxima.
+

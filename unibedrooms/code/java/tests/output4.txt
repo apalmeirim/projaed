@@ -1,0 +1,68 @@
+Inexistencia de quartos na localidade referida.
+
+Faro ALGARVE-RF-Q402
+Universidade do Algarve
+Residencia Faro
+
+Remocao de quarto executada.
+
+Inexistencia de quartos na localidade referida.
+
+Registo de quarto executado.
+
+Olhao ALGARVE-REQ-Q501
+Universidade do Algarve
+Residencia Edificio Quadrado
+
+Estado de quarto actualizado.
+
+Inexistencia de quartos na localidade referida.
+
+Bolhao PORTO-RAA-Q301
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q302
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q303
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q304
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q305
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q306
+Universidade do Porto
+Residencia Alberto Amaral
+
+Estado de quarto actualizado.
+
+Registo de candidatura executado.
+
+Aceitacao de candidatura executada.
+
+Bolhao PORTO-RAA-Q302
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q303
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q304
+Universidade do Porto
+Residencia Alberto Amaral
+
+Bolhao PORTO-RAA-Q306
+Universidade do Porto
+Residencia Alberto Amaral
+
+Obrigado. Ate a proxima.
+

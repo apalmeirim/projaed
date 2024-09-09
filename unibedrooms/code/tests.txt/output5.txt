@@ -1,0 +1,170 @@
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Operacao nao autorizada.
+
+Estado de quarto actualizado.
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+Estado de quarto actualizado.
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+ocupado
+
+Estado de quarto actualizado.
+
+Estado de quarto actualizado.
+
+quarto-g1-1 residencia do gerente1
+universidade1
+localidade da residencia1
+1
+quarto na residencia do gerente1
+livre
+
+Candidaturas activas.
+
+Estado de quarto actualizado.
+
+quarto-g2-1 residencia do gerente2
+universidade2
+localidade da residencia2
+10
+quarto na residencia do gerente2
+ocupado
+
+Estado de quarto actualizado.
+
+quarto-g2-1 residencia do gerente2
+universidade2
+localidade da residencia2
+10
+quarto na residencia do gerente2
+livre
+
+Estado de quarto actualizado.
+
+quarto-g1-1 residencia do gerente1
+universidade1
+localidade da residencia1
+1
+quarto na residencia do gerente1
+livre
+
+quarto-g1-2 residencia do gerente1
+universidade1
+localidade da residencia1
+2
+quarto na residencia do gerente1
+livre
+
+quarto-g1-3 residencia do gerente1
+universidade1
+localidade da residencia1
+1
+quarto na residencia do gerente1
+livre
+
+quarto-g2-1 residencia do gerente2
+universidade2
+localidade da residencia2
+10
+quarto na residencia do gerente2
+livre
+
+quarto-g2-2 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-1 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-2 residencia do gerente4
+universidade2
+localidade da residencia4
+2
+quarto na residencia do gerente4
+livre
+
+quarto-g4-3 residencia do gerente4
+universidade2
+localidade da residencia4
+3
+quarto na residencia do gerente4
+livre
+
+quarto-g4-4 residencia do gerente4
+universidade2
+localidade da residencia4
+4
+quarto na residencia do gerente4
+livre
+
+quarto-g4-5 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-6 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-7 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-8 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+livre
+
+quarto-g4-9 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+ocupado
+
+Inexistencia do quarto referido.
+
+quarto-g4-11 residencia do gerente4
+universidade2
+localidade da residencia4
+1
+quarto na residencia do gerente4
+ocupado
+
+Inexistencia do quarto referido.
+
+Inexistencia do quarto referido.
+
+Obrigado. Ate a proxima.
+

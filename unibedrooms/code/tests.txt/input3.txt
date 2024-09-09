@@ -1,0 +1,35 @@
+IC estudante1 quarto-g4-1
+
+IC estudante1 quarto-g4-2
+
+IC estudante1 quarto-g4-3
+
+IC estudante1 quarto-g4-4
+
+IC estudante1 quarto-g4-5
+
+IC estudante1 quarto-g4-6
+
+IC estudante1 quarto-g4-7
+
+IC estudante2 quarto-g2-2
+
+IC estudante1 quarto-g1-1
+
+IC estudante1 quarto-g1-2
+
+IC estudante1 quarto-g1-3
+
+IC estudante1 quarto-g4-8
+
+IC estudante2 quarto-g4-8
+
+IC estudante2 quarto-g2-2
+
+IC gerente3 quarto-g4-9
+
+IC estudante0 quarto-g4-10
+
+IC estudante5 quarto-falha2
+
+XS

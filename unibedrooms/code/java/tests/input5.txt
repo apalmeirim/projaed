@@ -1,0 +1,2345 @@
+IE est1 nomeEst1
+20 Localidade1
+universidade1
+
+IE est2 nomeEst2
+20 Localidade2
+universidade2
+
+IE est3 nomeEst3
+20 Localidade3
+universidade3
+
+IE est4 nomeEst4
+20 Localidade4
+universidade4
+
+IE est5 nomeEst5
+20 Localidade5
+universidade0
+
+IE est6 nomeEst6
+20 Localidade6
+universidade1
+
+IE est7 nomeEst7
+20 Localidade7
+universidade2
+
+IE est8 nomeEst8
+20 Localidade8
+universidade3
+
+IE est9 nomeEst9
+20 Localidade9
+universidade4
+
+IE est10 nomeEst10
+20 Localidade10
+universidade0
+
+IE est11 nomeEst11
+20 Localidade11
+universidade1
+
+IE est12 nomeEst12
+20 Localidade12
+universidade2
+
+IE est13 nomeEst13
+20 Localidade13
+universidade3
+
+IE est14 nomeEst14
+20 Localidade14
+universidade4
+
+IE est15 nomeEst15
+20 Localidade15
+universidade0
+
+IE est16 nomeEst16
+20 Localidade16
+universidade1
+
+IE est17 nomeEst17
+20 Localidade17
+universidade2
+
+IE est18 nomeEst18
+20 Localidade18
+universidade3
+
+IE est19 nomeEst19
+20 Localidade19
+universidade4
+
+IE est20 nomeEst20
+20 Localidade20
+universidade0
+
+IE est21 nomeEst21
+20 Localidade21
+universidade1
+
+IE est22 nomeEst22
+20 Localidade22
+universidade2
+
+IE est23 nomeEst23
+20 Localidade23
+universidade3
+
+IE est24 nomeEst24
+20 Localidade24
+universidade4
+
+IE est25 nomeEst25
+20 Localidade25
+universidade0
+
+IE est26 nomeEst26
+20 Localidade26
+universidade1
+
+IE est27 nomeEst27
+20 Localidade27
+universidade2
+
+IE est28 nomeEst28
+20 Localidade28
+universidade3
+
+IE est29 nomeEst29
+20 Localidade29
+universidade4
+
+IE est30 nomeEst30
+20 Localidade30
+universidade0
+
+IE est31 nomeEst31
+20 Localidade31
+universidade1
+
+IE est32 nomeEst32
+20 Localidade32
+universidade2
+
+IE est33 nomeEst33
+20 Localidade33
+universidade3
+
+IE est34 nomeEst34
+20 Localidade34
+universidade4
+
+IE est35 nomeEst35
+20 Localidade35
+universidade0
+
+IE est36 nomeEst36
+20 Localidade36
+universidade1
+
+IE est37 nomeEst37
+20 Localidade37
+universidade2
+
+IE est38 nomeEst38
+20 Localidade38
+universidade3
+
+IE est39 nomeEst39
+20 Localidade39
+universidade4
+
+IE est40 nomeEst40
+20 Localidade40
+universidade0
+
+IE est41 nomeEst41
+20 Localidade41
+universidade1
+
+IE est42 nomeEst42
+20 Localidade42
+universidade2
+
+IE est43 nomeEst43
+20 Localidade43
+universidade3
+
+IE est44 nomeEst44
+20 Localidade44
+universidade4
+
+IE est45 nomeEst45
+20 Localidade45
+universidade0
+
+IE est46 nomeEst46
+20 Localidade46
+universidade1
+
+IE est47 nomeEst47
+20 Localidade47
+universidade2
+
+IE est48 nomeEst48
+20 Localidade48
+universidade3
+
+IE est49 nomeEst49
+20 Localidade49
+universidade4
+
+IE est50 nomeEst50
+20 Localidade50
+universidade0
+
+IE est51 nomeEst51
+20 Localidade51
+universidade1
+
+IE est52 nomeEst52
+20 Localidade52
+universidade2
+
+IE est53 nomeEst53
+20 Localidade53
+universidade3
+
+IE est54 nomeEst54
+20 Localidade54
+universidade4
+
+IE est55 nomeEst55
+20 Localidade55
+universidade0
+
+IE est56 nomeEst56
+20 Localidade56
+universidade1
+
+IE est57 nomeEst57
+20 Localidade57
+universidade2
+
+IE est58 nomeEst58
+20 Localidade58
+universidade3
+
+IE est59 nomeEst59
+20 Localidade59
+universidade4
+
+IE est60 nomeEst60
+20 Localidade60
+universidade0
+
+IE est61 nomeEst61
+20 Localidade61
+universidade1
+
+IE est62 nomeEst62
+20 Localidade62
+universidade2
+
+IE est63 nomeEst63
+20 Localidade63
+universidade3
+
+IE est64 nomeEst64
+20 Localidade64
+universidade4
+
+IE est65 nomeEst65
+20 Localidade65
+universidade0
+
+IE est66 nomeEst66
+20 Localidade66
+universidade1
+
+IE est67 nomeEst67
+20 Localidade67
+universidade2
+
+IE est68 nomeEst68
+20 Localidade68
+universidade3
+
+IE est69 nomeEst69
+20 Localidade69
+universidade4
+
+IE est70 nomeEst70
+20 Localidade70
+universidade0
+
+IE est71 nomeEst71
+20 Localidade71
+universidade1
+
+IE est72 nomeEst72
+20 Localidade72
+universidade2
+
+IE est73 nomeEst73
+20 Localidade73
+universidade3
+
+IE est74 nomeEst74
+20 Localidade74
+universidade4
+
+IE est75 nomeEst75
+20 Localidade75
+universidade0
+
+IE est76 nomeEst76
+20 Localidade76
+universidade1
+
+IE est77 nomeEst77
+20 Localidade77
+universidade2
+
+IE est78 nomeEst78
+20 Localidade78
+universidade3
+
+IE est79 nomeEst79
+20 Localidade79
+universidade4
+
+IE est80 nomeEst80
+20 Localidade80
+universidade0
+
+IE est81 nomeEst81
+20 Localidade81
+universidade1
+
+IE est82 nomeEst82
+20 Localidade82
+universidade2
+
+IE est83 nomeEst83
+20 Localidade83
+universidade3
+
+IE est84 nomeEst84
+20 Localidade84
+universidade4
+
+IE est85 nomeEst85
+20 Localidade85
+universidade0
+
+IE est86 nomeEst86
+20 Localidade86
+universidade1
+
+IE est87 nomeEst87
+20 Localidade87
+universidade2
+
+IE est88 nomeEst88
+20 Localidade88
+universidade3
+
+IE est89 nomeEst89
+20 Localidade89
+universidade4
+
+IE est90 nomeEst90
+20 Localidade90
+universidade0
+
+IE est91 nomeEst91
+20 Localidade91
+universidade1
+
+IE est92 nomeEst92
+20 Localidade92
+universidade2
+
+IE est93 nomeEst93
+20 Localidade93
+universidade3
+
+IE est94 nomeEst94
+20 Localidade94
+universidade4
+
+IE est95 nomeEst95
+20 Localidade95
+universidade0
+
+IE est96 nomeEst96
+20 Localidade96
+universidade1
+
+IE est97 nomeEst97
+20 Localidade97
+universidade2
+
+IE est98 nomeEst98
+20 Localidade98
+universidade3
+
+IE est99 nomeEst99
+20 Localidade99
+universidade4
+
+IE est100 nomeEst100
+20 Localidade100
+universidade0
+
+IG ger0 nomeGer0
+universidade0
+
+IG ger1 nomeGer1
+universidade1
+
+IG ger2 nomeGer2
+universidade2
+
+IG ger3 nomeGer3
+universidade3
+
+IG ger4 nomeGer4
+universidade4
+
+IG ger5 nomeGer5
+universidade5
+
+IQ qua1 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua2 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua3 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua4 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua5 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua6 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua7 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua8 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua9 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua10 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua11 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua12 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua13 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua14 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua15 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua16 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua17 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua18 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua19 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua20 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua21 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua22 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua23 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua24 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua25 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua26 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua27 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua28 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua29 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua30 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua31 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua32 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua33 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua34 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua35 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua36 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua37 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua38 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua39 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua40 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua41 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua42 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua43 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua44 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua45 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua46 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua47 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua48 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua49 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua50 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua51 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua52 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua53 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua54 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua55 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua56 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua57 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua58 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua59 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua60 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua61 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua62 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua63 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua64 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua65 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua66 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua67 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua68 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua69 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua70 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua71 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua72 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua73 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua74 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua75 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua76 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua77 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua78 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua79 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua80 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua81 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua82 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua83 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua84 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua85 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua86 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua87 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua88 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua89 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua90 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua91 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua92 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua93 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua94 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua95 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua96 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua97 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua98 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua99 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua100 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+RQ qua1 ger1
+
+RQ qua3 ger3
+
+RQ qua5 ger0
+
+RQ qua7 ger2
+
+RQ qua9 ger4
+
+RQ qua11 ger1
+
+RQ qua13 ger3
+
+RQ qua15 ger0
+
+RQ qua17 ger2
+
+RQ qua19 ger4
+
+RQ qua21 ger1
+
+RQ qua23 ger3
+
+RQ qua25 ger0
+
+RQ qua27 ger2
+
+RQ qua29 ger4
+
+RQ qua31 ger1
+
+RQ qua33 ger3
+
+RQ qua35 ger0
+
+RQ qua37 ger2
+
+RQ qua39 ger4
+
+RQ qua41 ger1
+
+RQ qua43 ger3
+
+RQ qua45 ger0
+
+RQ qua47 ger2
+
+RQ qua49 ger4
+
+RQ qua51 ger1
+
+RQ qua53 ger3
+
+RQ qua55 ger0
+
+RQ qua57 ger2
+
+RQ qua59 ger4
+
+RQ qua61 ger1
+
+RQ qua63 ger3
+
+RQ qua65 ger0
+
+RQ qua67 ger2
+
+RQ qua69 ger4
+
+RQ qua71 ger1
+
+RQ qua73 ger3
+
+RQ qua75 ger0
+
+RQ qua77 ger2
+
+RQ qua79 ger4
+
+RQ qua81 ger1
+
+RQ qua83 ger3
+
+RQ qua85 ger0
+
+RQ qua87 ger2
+
+RQ qua89 ger4
+
+RQ qua91 ger1
+
+RQ qua93 ger3
+
+RQ qua95 ger0
+
+RQ qua97 ger2
+
+RQ qua99 ger4
+
+IQ qua99 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua97 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua95 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua93 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua91 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua89 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua87 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua85 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua83 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua81 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua79 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua77 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua75 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua73 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua71 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua69 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua67 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua65 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua63 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua61 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua59 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua57 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua55 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua53 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua51 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua49 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua47 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua45 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua43 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua41 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua39 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua37 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua35 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua33 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua31 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua29 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua27 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua25 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua23 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua21 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua19 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua17 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua15 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua13 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua11 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+IQ qua9 ger4
+nome residencia4
+universidade4
+localidade4
+1
+quarto acolhedor
+
+IQ qua7 ger2
+nome residencia2
+universidade2
+localidade2
+1
+quarto acolhedor
+
+IQ qua5 ger0
+nome residencia0
+universidade0
+localidade0
+1
+quarto acolhedor
+
+IQ qua3 ger3
+nome residencia3
+universidade3
+localidade3
+1
+quarto acolhedor
+
+IQ qua1 ger1
+nome residencia1
+universidade1
+localidade1
+1
+quarto acolhedor
+
+RQ qua10 ger0
+
+RQ qua20 ger0
+
+DQ qua10
+
+DQ qua20
+
+DQ qua21
+
+MQ qua10 ger0
+ocupado
+
+MQ qua30 ger0
+ocupado
+
+MQ qua35 ger0
+ocupado
+
+MQ qua40 ger0
+livre
+
+DQ qua10
+
+DQ qua30
+
+DQ qua35
+
+DQ qua40
+
+IC est1 qua1
+
+IC est1 qua2
+
+IC est1 qua3
+
+IC est1 qua4
+
+IC est1 qua5
+
+IC est1 qua6
+
+IC est1 qua7
+
+IC est1 qua8
+
+IC est1 qua9
+
+IC est1 qua10
+
+IC est1 qua11
+
+IC est1 qua12
+
+IC est1 qua13
+
+IC est2 qua1
+
+IC est2 qua2
+
+IC est2 qua3
+
+IC est2 qua4
+
+IC est2 qua5
+
+IC est2 qua6
+
+IC est2 qua7
+
+IC est2 qua8
+
+IC est2 qua9
+
+IC est2 qua10
+
+IC est2 qua11
+
+IC est2 qua12
+
+IC est2 qua13
+
+IC est3 qua1
+
+IC est3 qua2
+
+IC est3 qua3
+
+IC est3 qua4
+
+IC est3 qua5
+
+IC est3 qua6
+
+IC est3 qua7
+
+IC est3 qua8
+
+IC est3 qua9
+
+IC est3 qua10
+
+IC est3 qua11
+
+IC est3 qua12
+
+IC est3 qua13
+
+IC est4 qua1
+
+IC est4 qua2
+
+IC est4 qua3
+
+IC est4 qua4
+
+IC est4 qua5
+
+IC est4 qua6
+
+IC est4 qua7
+
+IC est4 qua8
+
+IC est4 qua9
+
+IC est4 qua10
+
+IC est4 qua11
+
+IC est4 qua12
+
+IC est4 qua13
+
+IC est5 qua1
+
+IC est5 qua2
+
+IC est5 qua3
+
+IC est5 qua4
+
+IC est5 qua5
+
+IC est5 qua6
+
+IC est5 qua7
+
+IC est5 qua8
+
+IC est5 qua9
+
+IC est5 qua10
+
+IC est5 qua11
+
+IC est5 qua12
+
+IC est5 qua13
+
+IC est6 qua1
+
+IC est6 qua2
+
+IC est6 qua3
+
+IC est6 qua4
+
+IC est6 qua5
+
+IC est6 qua6
+
+IC est6 qua7
+
+IC est6 qua8
+
+IC est6 qua9
+
+IC est6 qua10
+
+IC est6 qua11
+
+IC est6 qua12
+
+IC est6 qua13
+
+IC est7 qua1
+
+IC est7 qua2
+
+IC est7 qua3
+
+IC est7 qua4
+
+IC est7 qua5
+
+IC est7 qua6
+
+IC est7 qua7
+
+IC est7 qua8
+
+IC est7 qua9
+
+IC est7 qua10
+
+IC est7 qua11
+
+IC est7 qua12
+
+IC est7 qua13
+
+IC est8 qua1
+
+IC est8 qua2
+
+IC est8 qua3
+
+IC est8 qua4
+
+IC est8 qua5
+
+IC est8 qua6
+
+IC est8 qua7
+
+IC est8 qua8
+
+IC est8 qua9
+
+IC est8 qua10
+
+IC est8 qua11
+
+IC est8 qua12
+
+IC est8 qua13
+
+IC est9 qua1
+
+IC est9 qua2
+
+IC est9 qua3
+
+IC est9 qua4
+
+IC est9 qua5
+
+IC est9 qua6
+
+IC est9 qua7
+
+IC est9 qua8
+
+IC est9 qua9
+
+IC est9 qua10
+
+IC est9 qua11
+
+IC est9 qua12
+
+IC est9 qua13
+
+IC est10 qua1
+
+IC est10 qua2
+
+IC est10 qua3
+
+IC est10 qua4
+
+IC est10 qua5
+
+IC est10 qua6
+
+IC est10 qua7
+
+IC est10 qua8
+
+IC est10 qua9
+
+IC est10 qua10
+
+IC est10 qua11
+
+IC est10 qua12
+
+IC est10 qua13
+
+IC est11 qua1
+
+IC est11 qua2
+
+IC est11 qua3
+
+IC est11 qua4
+
+IC est11 qua5
+
+IC est11 qua6
+
+IC est11 qua7
+
+IC est11 qua8
+
+IC est11 qua9
+
+IC est11 qua10
+
+IC est11 qua11
+
+IC est11 qua12
+
+IC est11 qua13
+
+IC est12 qua1
+
+IC est12 qua2
+
+IC est12 qua3
+
+IC est12 qua4
+
+IC est12 qua5
+
+IC est12 qua6
+
+IC est12 qua7
+
+IC est12 qua8
+
+IC est12 qua9
+
+IC est12 qua10
+
+IC est12 qua11
+
+IC est12 qua12
+
+IC est12 qua13
+
+IC est13 qua1
+
+IC est13 qua2
+
+IC est13 qua3
+
+IC est13 qua4
+
+IC est13 qua5
+
+IC est13 qua6
+
+IC est13 qua7
+
+IC est13 qua8
+
+IC est13 qua9
+
+IC est13 qua10
+
+IC est13 qua11
+
+IC est13 qua12
+
+IC est13 qua13
+
+IC est14 qua1
+
+IC est14 qua2
+
+IC est14 qua3
+
+IC est14 qua4
+
+IC est14 qua5
+
+IC est14 qua6
+
+IC est14 qua7
+
+IC est14 qua8
+
+IC est14 qua9
+
+IC est14 qua10
+
+IC est14 qua11
+
+IC est14 qua12
+
+IC est14 qua13
+
+IC est15 qua1
+
+IC est15 qua2
+
+IC est15 qua3
+
+IC est15 qua4
+
+IC est15 qua5
+
+IC est15 qua6
+
+IC est15 qua7
+
+IC est15 qua8
+
+IC est15 qua9
+
+IC est15 qua10
+
+IC est15 qua11
+
+IC est15 qua12
+
+IC est15 qua13
+
+IC est16 qua1
+
+IC est16 qua2
+
+IC est16 qua3
+
+IC est16 qua4
+
+IC est16 qua5
+
+IC est16 qua6
+
+IC est16 qua7
+
+IC est16 qua8
+
+IC est16 qua9
+
+IC est16 qua10
+
+IC est16 qua11
+
+IC est16 qua12
+
+IC est16 qua13
+
+IC est17 qua1
+
+IC est17 qua2
+
+IC est17 qua3
+
+IC est17 qua4
+
+IC est17 qua5
+
+IC est17 qua6
+
+IC est17 qua7
+
+IC est17 qua8
+
+IC est17 qua9
+
+IC est17 qua10
+
+IC est17 qua11
+
+IC est17 qua12
+
+IC est17 qua13
+
+IC est18 qua1
+
+IC est18 qua2
+
+IC est18 qua3
+
+IC est18 qua4
+
+IC est18 qua5
+
+IC est18 qua6
+
+IC est18 qua7
+
+IC est18 qua8
+
+IC est18 qua9
+
+IC est18 qua10
+
+IC est18 qua11
+
+IC est18 qua12
+
+IC est18 qua13
+
+IC est19 qua1
+
+IC est19 qua2
+
+IC est19 qua3
+
+IC est19 qua4
+
+IC est19 qua5
+
+IC est19 qua6
+
+IC est19 qua7
+
+IC est19 qua8
+
+IC est19 qua9
+
+IC est19 qua10
+
+IC est19 qua11
+
+IC est19 qua12
+
+IC est19 qua13
+
+IC est20 qua1
+
+IC est20 qua2
+
+IC est20 qua3
+
+IC est20 qua4
+
+IC est20 qua5
+
+IC est20 qua6
+
+IC est20 qua7
+
+IC est20 qua8
+
+IC est20 qua9
+
+IC est20 qua10
+
+IC est20 qua11
+
+IC est20 qua12
+
+IC est20 qua13
+
+LC qua1 ger1
+
+LC qua2 ger2
+
+LC qua3 ger3
+
+LC qua4 ger4
+
+LC qua5 ger0
+
+LC qua6 ger1
+
+LC qua7 ger2
+
+LC qua8 ger3
+
+LC qua9 ger4
+
+LC qua10 ger0
+
+LC qua11 ger1
+
+LC qua12 ger2
+
+LC qua13 ger3
+
+AC qua1 ger1 est1
+
+AC qua2 ger2 est2
+
+AC qua3 ger3 est3
+
+AC qua4 ger4 est4
+
+AC qua5 ger0 est5
+
+LL localidade0
+
+LL localidade1
+
+LL localidade2
+
+LL localidade3
+
+LL localidade4
+
+LL localidade5
+
+IC est10 qua10
+
+IC est10 qua11
+
+IC est10 qua12
+
+IC est10 qua13
+
+IC est10 qua14
+
+IC est10 qua15
+
+IC est11 qua10
+
+IC est11 qua11
+
+IC est11 qua12
+
+IC est11 qua13
+
+IC est11 qua14
+
+IC est11 qua15
+
+IC est12 qua10
+
+IC est12 qua11
+
+IC est12 qua12
+
+IC est12 qua13
+
+IC est12 qua14
+
+IC est12 qua15
+
+IC est13 qua10
+
+IC est13 qua11
+
+IC est13 qua12
+
+IC est13 qua13
+
+IC est13 qua14
+
+IC est13 qua15
+
+IC est14 qua10
+
+IC est14 qua11
+
+IC est14 qua12
+
+IC est14 qua13
+
+IC est14 qua14
+
+IC est14 qua15
+
+IC est15 qua10
+
+IC est15 qua11
+
+IC est15 qua12
+
+IC est15 qua13
+
+IC est15 qua14
+
+IC est15 qua15
+
+IC est16 qua10
+
+IC est16 qua11
+
+IC est16 qua12
+
+IC est16 qua13
+
+IC est16 qua14
+
+IC est16 qua15
+
+IC est17 qua10
+
+IC est17 qua11
+
+IC est17 qua12
+
+IC est17 qua13
+
+IC est17 qua14
+
+IC est17 qua15
+
+IC est18 qua10
+
+IC est18 qua11
+
+IC est18 qua12
+
+IC est18 qua13
+
+IC est18 qua14
+
+IC est18 qua15
+
+IC est19 qua10
+
+IC est19 qua11
+
+IC est19 qua12
+
+IC est19 qua13
+
+IC est19 qua14
+
+IC est19 qua15
+
+IC est20 qua10
+
+IC est20 qua11
+
+IC est20 qua12
+
+IC est20 qua13
+
+IC est20 qua14
+
+IC est20 qua15
+
+LC qua5 ger0
+
+LC qua6 ger1
+
+LC qua7 ger2
+
+LC qua8 ger3
+
+LC qua9 ger4
+
+LC qua10 ger0
+
+LC qua11 ger1
+
+LC qua12 ger2
+
+LC qua13 ger3
+
+LC qua14 ger4
+
+LC qua15 ger0
+
+AC qua6 ger1 est6
+
+AC qua7 ger2 est7
+
+AC qua8 ger3 est8
+
+AC qua9 ger4 est9
+
+AC qua10 ger0 est10
+
+LL localidade0
+
+LL localidade1
+
+LL localidade2
+
+LL localidade3
+
+LL localidade4
+
+LL localidade5
+
+LQ
+
+XS
